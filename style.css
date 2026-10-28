@@ -1,0 +1,32 @@
+body {
+  font-family: Arial;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-family: Georgia;
+  font-size: 48px;
+}
+
+h2, h3 {
+  font-family: Georgia;
+}
+
+p {
+  color: gray;
+  font-size: 14px;
+}
+
+img {
+  border: 1px solid #ccc;
+}
+.menu {
+  text-align: center;
+}
+
+.menu li {
+  display: inline;
+  margin: 8px;
+  font-size: 13px;
+}
